@@ -1,5 +1,5 @@
 function preload() {
-  img01 = loadImage("/images/kusama-00.jpg");
+  img01 = loadImage("/images/kusama-00.jpg")
 }
 
 function setup() {
