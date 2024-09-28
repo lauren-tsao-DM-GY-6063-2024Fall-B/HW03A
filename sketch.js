@@ -1,12 +1,6 @@
-function preload() {
-  img01 = loadImage("/images/kusama-00.jpg");
-}
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(236, 215, 0);
-
-  // image(img01, 0, 0, 400, 500);
 
   let trans = 255;
 
