@@ -51,5 +51,7 @@ function setup() {
   }
 }
 
-//circle color is 21, 24, 31
-function draw() {}
+
+function draw() {
+  
+}
